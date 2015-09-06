@@ -1,7 +1,7 @@
 SkyBlue
 =======
 
-This is not Bootstrap killer, I just think Bootstrap is way too bloated.
+This is not Bootstrap killer, I juSt think Bootstrap is way too bloated.
 SkyBlue is a minimal framework that is meant to be starting point for my projects.
 
 #### [Demo and documentation](http://stanko.github.io/skyblue/).
